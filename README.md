@@ -3,6 +3,6 @@ During my time at WestEd, I created this interactive map created using R and Lea
 
 Diversity status was determined using publicly available NCES data and a threshold set by the research team (roughly 50% or more of students identifying as minority ethnic groups). 
 
-Demo created using fake data: https://justinakliu.github.io/schools-map 
+[View a demo created with fake data](https://justinakliu.github.io/interactive-schools-map/)
 
 <img width="1275" alt="Screen Shot 2022-12-20 at 6 46 00 PM" src="https://user-images.githubusercontent.com/87151448/208787498-fbb3d177-ef7e-458f-afff-0b1fd7d2ca2b.png">
